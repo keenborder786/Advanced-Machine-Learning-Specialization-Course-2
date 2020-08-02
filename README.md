@@ -21,3 +21,7 @@
   - Week-2:
    
      - <a href='https://github.com/keenborder786/Advanced-Machine-Learning-Specialization-Course-2/blob/master/Week-2/Data_leakages.ipynb'> Week 02 - PA 1 - Data_leakages </a>
+     
+  - Week-3:
+    
+    - <a href='https://github.com/keenborder786/Advanced-Machine-Learning-Specialization-Course-2/blob/master/Week-3/Programming_assignment_week_3.ipynb'>Week 03 -PA 1- Mean Encoding </a>
