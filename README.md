@@ -17,4 +17,7 @@
   - Week-1:
   
     - <a href='https://github.com/keenborder786/Advanced-Machine-Learning-Specialization-Course-2/blob/master/Week-1/PandasBasics.ipynb'> Week 01 - PA 1 - PandasBasics </a>
+    
+  - Week-2:
    
+     - <a href='https://github.com/keenborder786/Advanced-Machine-Learning-Specialization-Course-2/blob/master/Week-2/Data_leakages.ipynb'> Week 02 - PA 1 - Data_leakages </a>
