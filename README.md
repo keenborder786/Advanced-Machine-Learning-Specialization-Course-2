@@ -25,3 +25,9 @@
   - Week-3:
     
     - <a href='https://github.com/keenborder786/Advanced-Machine-Learning-Specialization-Course-2/blob/master/Week-3/Programming_assignment_week_3.ipynb'>Week 03 -PA 1- Mean Encoding </a>
+    
+  - Week-4:
+  
+    - <a href='https://github.com/keenborder786/Advanced-Machine-Learning-Specialization-Course-2/blob/master/Week-4/compute_KNN_features.ipynb'>Week 04 -PA 1- Compute KNN Features </a> 
+   
+    
